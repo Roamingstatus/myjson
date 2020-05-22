@@ -1,4 +1,5 @@
 {
+  "places":"new york"{
   "cities": [
     {
       "id": "1",
@@ -61,4 +62,5 @@
       "name": "Fulton"
     }
   ]
+}
 }
