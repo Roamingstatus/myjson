@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "1",
+      "name": "Accord"
+    },
+    {
+      "id": "2",
+      "name": "Adams village"
+    },
+    {
+      "id": "3",
+      "name": "Arkport village"
+    },
+    {
+      "id": "4",
+      "name": "Auburn"
+    },
+    {
+      "id": "5",
+      "name": "Bainbridge village"
+    },
+    {
+      "id": "6",
+      "name": "Barnum Island"
+    },
+    {
+      "id": "7",
+      "name": "Bellerose village"
+    },
+    {
+      "id": "8",
+      "name": "Buffalo"
+    },
+    {
+      "id": "9",
+      "name": "Canandaigua"
+    },
+    {
+      "id": "10",
+      "name": "Constantia"
+    },
+    {
+      "id": "11",
+      "name": "Deposit village"
+    },
+    {
+      "id": "12",
+      "name": "DeRuyter village"
+    },
+    {
+      "id": "13",
+      "name": "East Farmingdale"
+    },
+    {
+      "id": "14",
+      "name": "Fairmount"
+    },
+    {
+      "id": "15",
+      "name": "Fulton"
+    }
+  ]
+}
